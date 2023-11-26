@@ -1,0 +1,3 @@
+[submodule "OverlongWAVtoW64/SuperWAV"]
+	path = OverlongWAVtoW64/SuperWAV
+	url = git@github.com:TomArrow/SuperWAV.git

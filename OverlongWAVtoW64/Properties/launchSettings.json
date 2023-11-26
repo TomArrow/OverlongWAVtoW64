@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OverlongWAVtoW64": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\tmp\\norpix big wav\\20-52-46.000.wav\""
+    }
+  }
+}
